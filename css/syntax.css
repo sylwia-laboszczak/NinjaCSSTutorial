@@ -1,22 +1,19 @@
-p {
+h2 {
+    font-size: 24px;
+    color: blue;
+}
+
+#content-header {
     font-size: 18px;
     color: red;
 }
 
-a {
-    text-decoration: underline;
-    color: blue;
-}
-
 span {
-    text-transform: uppercase;
+    display: block;
+    color: blue
 }
 
-h1 {
-    font-size: 32px;
-}
-
-div {
-    width: 100%;
-    background-color: gray;
+.deck {
+    color: blanchedalmond;
+    background-color: rosybrown;
 }
