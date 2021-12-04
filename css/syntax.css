@@ -2,3 +2,21 @@ p {
     font-size: 18px;
     color: red;
 }
+
+a {
+    text-decoration: underline;
+    color: blue;
+}
+
+span {
+    text-transform: uppercase;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+div {
+    width: 100%;
+    background-color: gray;
+}
